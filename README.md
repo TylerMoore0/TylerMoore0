@@ -1,13 +1,21 @@
 # Tyler Moore
-Hey! I’m Tyler I am a student currently pursuing an advanced diploma at St Lawrence College's Computer Programming and Analysis program. I'm capable of both front-end and back-end development and don’t have a particular preference because I find both are enjoyable. I’m always eager to improve my skillset and sharpen my knowledge to develop better and more efficient programs.
-##
+Hey! I’m **Tyler** I am a student currently pursuing an advanced diploma at St Lawrence College's Computer Programming and Analysis program. I'm capable of both front-end and back-end development and don’t have a particular preference because I find both are enjoyable. I’m always eager to improve my skillset and sharpen my knowledge to develop better and more efficient programs.
+<hr style="border:2px solid gray">
+
 ## About Me
 - 🏫 Computer Programming Student | Ontario Canada
 - 📱 Currently working towards mobile applications and other personal projects requiring web development
 - 🌱 I’m currently learning COBOL, Java, Advanced SQL through school and I'm also learning Python on the side
 - 🗿 Willing to collaborate with anyone to create an effcient user friendly application
 - 📫 Reach me through email: tylermmoore@gmail.com
-##
+<hr style="border:2px solid gray">
+
+## Languages
+```
+C++ | C# | Java | Javascript | HTML | CSS | COBOL | Python | SQL | PHP
+```
+<hr style="border:2px solid gray">
+
 
 <!--
 **TylerMoore0/TylerMoore0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
