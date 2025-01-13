@@ -1,4 +1,13 @@
-## Hi there 👋
+# Tyler Moore
+ Hi there 👋
+##
+## About Me
+- 🏫 Computer Programming Student | Ontario Canada
+- 📱 Currently working towards mobile applications and other personal projects requiring web development
+- 🌱 I’m currently learning COBOL, Java, Advanced SQL through school and I'm also learning Python on the side
+- 🗿 Willing to collaborate with anyone to create an effcient user friendly application
+- 📫 Reach me through email: tylermmoore@gmail.com
+##
 
 <!--
 **TylerMoore0/TylerMoore0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
