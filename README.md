@@ -17,7 +17,8 @@ C++ | C# | Java | Javascript | HTML | CSS | COBOL | Python | SQL | PHP
 <hr style="border:2px solid gray">
 
 ## 🗂️Repositories
-
+- CPADiscordBot | [CPA Discord Bot Repo](https://github.com/TylerMoore0/CPADiscordBot)
+  - Developer | python, JSON, SQLite
 <hr style="border:2px solid gray">
 
 <!--
