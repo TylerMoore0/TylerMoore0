@@ -5,7 +5,7 @@ Hey! I’m **Tyler** I am a student currently pursuing an advanced diploma at St
 ## 🏒About Me
 - 🏫 Computer Programming Student | Ontario Canada
 - 📱 Currently working towards mobile applications and other personal projects requiring web development
-- 🌱 I’m currently learning COBOL, Java, Advanced SQL through school and I'm also learning Python on the side
+- 🌱 I’m currently learning COBOL, Java, Advanced SQL through college and I'm also learning Python on the side
 - 🗿 Willing to collaborate with anyone to create an effcient user friendly application
 - 📫 Reach me through email: tylermmoore@gmail.com
 <hr style="border:2px solid gray">
