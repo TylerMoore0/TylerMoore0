@@ -1,8 +1,8 @@
-# Tyler Moore
+## 🏒About Me
 Hey! I’m **Tyler** I am a student currently pursuing an advanced diploma at St Lawrence College's Computer Programming and Analysis program. I'm capable of both front-end and back-end development and don’t have a particular preference because I find both are enjoyable. I’m always eager to improve my skillset and sharpen my knowledge to develop better and more efficient programs.
 <hr style="border:2px solid gray">
 
-## 🏒About Me
+## 
 - 🏫 Computer Programming Student | Ontario Canada
 - 📱 Currently working towards mobile applications and other personal projects requiring web development
 - 🌱 I’m currently learning COBOL, Java, Advanced SQL through college and I'm also learning GODOT using C# as well as python on the side
