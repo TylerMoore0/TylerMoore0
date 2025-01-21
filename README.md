@@ -23,7 +23,7 @@ Express.js | Vue.js | Visual Studio Code | Visual Studio | Inteliji IDEA | Ubunt
 <hr style="border:2px solid gray">
 
 ## 🗂️Repositories
-- CPADiscordBot | [CPA Discord Bot Repo](https://github.com/TylerMoore0/CPADiscordBot)
+- CPADiscordBot | [CPA Discord Bot Repo](https://github.com/astrosaturn/CPADiscordBot)
   - Developer | python, JSON, SQLite
 <hr style="border:2px solid gray">
 
