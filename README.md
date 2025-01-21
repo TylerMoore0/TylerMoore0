@@ -1,4 +1,4 @@
-# 🌚Tyler Moore
+# Tyler Moore
 Hey! I’m **Tyler** I am a student currently pursuing an advanced diploma at St Lawrence College's Computer Programming and Analysis program. I'm capable of both front-end and back-end development and don’t have a particular preference because I find both are enjoyable. I’m always eager to improve my skillset and sharpen my knowledge to develop better and more efficient programs.
 <hr style="border:2px solid gray">
 
@@ -13,6 +13,12 @@ Hey! I’m **Tyler** I am a student currently pursuing an advanced diploma at St
 ## 🏗️Languages
 ```
 C++ | C# | Java | Javascript | HTML | CSS | COBOL | Python | SQL | PHP
+```
+<hr style="border:2px solid gray">
+
+## 🔧Tools
+```
+Express.js | Vue.js | Visual Studio Code | Visual Studio | Inteliji IDEA | Ubuntu | Xampp/Apache | Datagrip | TSO-ISPF
 ```
 <hr style="border:2px solid gray">
 
