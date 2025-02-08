@@ -18,7 +18,7 @@ C++ | C# | Java | Javascript | HTML | CSS | COBOL | Python | SQL | PHP
 
 ## 🔧Tools
 ```
-Express.js | Vue.js | Visual Studio Code | Visual Studio | IntelliJ IDEA | Ubuntu | Xampp/Apache | Datagrip | TSO-ISPF
+Express.js | Vue.js | Visual Studio Code | Visual Studio | IntelliJ IDEA | Ubuntu | Datagrip | NPM | Postman |Xampp/Apache | TSO-ISPF
 ```
 <hr style="border:2px solid gray">
 
