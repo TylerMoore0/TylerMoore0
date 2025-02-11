@@ -7,7 +7,7 @@ Hey! I’m **Tyler** I am a student currently pursuing an advanced diploma at St
 - 📱 Currently working towards mobile applications and other personal projects requiring web development
 - 🌱 I’m currently learning COBOL, Java, Advanced SQL through college and I'm also learning GODOT and Python on the side
 - 🗿 Willing to collaborate with anyone to create an effcient user friendly application
-- 📫 Reach me through Discord: **@tym9047**
+- 📫 Reach me through Email: **tylermmoore05@gmail.com**
 <hr style="border:2px solid gray">
 
 ## 🏗️Languages
