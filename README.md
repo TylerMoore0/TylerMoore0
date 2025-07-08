@@ -4,7 +4,7 @@ Hey! I’m **Tyler** I am a student currently pursuing an advanced diploma at St
 
 ## 🏒About Me
 - 🏫 **Computer Programming Student** | Ontario, Canada
-- 📱 Currently working towards mobile applications and other personal projects requiring web development
+- 📱 Currently working at Fenix Alma solutions and developing other personal web and mobile projects
 - 🌱 I’m currently learning COBOL, Java, Advanced SQL through college and I'm also learning GODOT and Python on the side
 - 🗿 Willing to collaborate with anyone to create an effcient user friendly application
 - 📫 Reach me through Email: **tylermmoore05@gmail.com**
@@ -47,6 +47,7 @@ Hey! I’m **Tyler** I am a student currently pursuing an advanced diploma at St
   - Developer | python, JSON, SQLite
 <hr style="border:2px solid gray">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerMoore0&show_icons=true&theme=tokyonight)
 <!--
 **TylerMoore0/TylerMoore0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
