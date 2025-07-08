@@ -47,8 +47,9 @@ Hey! I’m **Tyler** I am a student currently pursuing an advanced diploma at St
   - Developer | python, JSON, SQLite
 <hr style="border:2px solid gray">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerMoore0&show_icons=true&theme=tokyonight)
 <!--
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerMoore0&show_icons=true&theme=tokyonight)
 **TylerMoore0/TylerMoore0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
