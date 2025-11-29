@@ -5,7 +5,7 @@ Hey! I’m **Tyler** I am a student currently pursuing an advanced diploma at St
 ## 🏒About Me
 - 🏫 **Computer Programming Student** | Ontario, Canada
 - 📱 Currently working at Fenix Alma solutions and developing other personal web and mobile projects
-- 🌱 I’m currently learning COBOL, Java, Advanced SQL through college and I'm also learning GODOT and Python on the side
+- 🌱 I’m currently learning COBOL, JCL, Java through college and I'm also learning GODOT and Python on the side
 - 🗿 Willing to collaborate with anyone to create an effcient user friendly application
 - 📫 Reach me through Email: **tylermmoore05@gmail.com**
 <hr style="border:2px solid gray">
